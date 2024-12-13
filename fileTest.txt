@@ -1,0 +1,7 @@
+Nom1, Prénom1, Email1, Phone1
+Nom2, Prénom2, Email2, Phone2
+Nom3, Prénom3, Email3, Phone3
+Nom3, Prénom3, Email3, Phone3
+John,Doe,john.doe@example.com,123456789
+Jane,Smith,jane.smith@example.com,987654321
+John,Doe,john.doe@example.com,123456789
